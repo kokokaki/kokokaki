@@ -1,4 +1,5 @@
-### 안녕안녕~~~ 나는 귀여니야~ 👋
+### 메롱메롱 🌱🌱🌱🌱🌱🌱
+### 저는 자바를 좋아합니다~
 
 <!--
 **kokokaki/kokokaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
